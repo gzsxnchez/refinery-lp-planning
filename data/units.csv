@@ -1,0 +1,5 @@
+unit,feed_stream,capacity_bbl_per_day,operating_cost_usd_per_bbl
+CDU,crude,160000,1.5
+reformer,naphtha,45000,3.5
+FCC,gas_oil,42000,4.0
+fo_blending,gas_oil,30000,0.2

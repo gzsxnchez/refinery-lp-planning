@@ -1,0 +1,4 @@
+crude,description,price_usd_per_bbl,max_available_bbl_per_day,api_gravity,sulfur_wt_pct
+light_sweet,WTI-like,78.0,120000,40.0,0.3
+medium_sour,Mars-like,72.0,100000,30.5,1.9
+heavy_sour,Maya-like,64.0,80000,21.5,3.4

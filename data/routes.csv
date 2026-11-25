@@ -1,0 +1,8 @@
+region,mode,cost_usd_per_bbl,capacity_bbl_per_day
+gulf_coast,truck,0.6,60000
+east_coast,pipeline,2.1,35000
+east_coast,tanker,3.4,30000
+midwest,pipeline,2.4,22000
+midwest,rail,5.2,15000
+southeast,pipeline,1.8,18000
+southeast,barge,2.9,15000

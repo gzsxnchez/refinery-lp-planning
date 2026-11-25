@@ -1,0 +1,5 @@
+product,spot_price_usd_per_bbl,note
+gasoline,92.0,84 octane-equivalent blendstock
+jet,94.0,Jet A
+diesel,97.0,ULSD
+fuel_oil,60.0,high-sulfur residual

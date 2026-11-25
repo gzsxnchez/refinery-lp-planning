@@ -1,0 +1,3 @@
+region,mode,cost_usd_per_bbl,capacity_bbl_per_day
+gulf_coast,truck,0.6,45000
+east_coast,pipeline,2.1,38000

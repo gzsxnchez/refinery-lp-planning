@@ -1,0 +1,17 @@
+product,region,price_usd_per_bbl
+gasoline,gulf_coast,96
+gasoline,east_coast,101
+gasoline,midwest,99
+gasoline,southeast,100
+jet,gulf_coast,98
+jet,east_coast,103
+jet,midwest,101
+jet,southeast,100
+diesel,gulf_coast,102
+diesel,east_coast,107
+diesel,midwest,105
+diesel,southeast,104
+fuel_oil,gulf_coast,66
+fuel_oil,east_coast,70
+fuel_oil,midwest,68
+fuel_oil,southeast,68

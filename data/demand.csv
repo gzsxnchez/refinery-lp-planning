@@ -1,0 +1,17 @@
+region,product,demand_bbl_per_day
+gulf_coast,gasoline,12000
+east_coast,gasoline,17000
+midwest,gasoline,11000
+southeast,gasoline,9000
+gulf_coast,jet,5000
+east_coast,jet,6000
+midwest,jet,2500
+southeast,jet,3000
+gulf_coast,diesel,12000
+east_coast,diesel,11000
+midwest,diesel,9000
+southeast,diesel,7000
+gulf_coast,fuel_oil,6000
+east_coast,fuel_oil,3000
+midwest,fuel_oil,1000
+southeast,fuel_oil,1500
